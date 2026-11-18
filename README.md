@@ -7,7 +7,7 @@ Track chest openings, team totals and personal records from supported Fortnite r
 
 ## Download
 
-[Get the Windows installer](https://github.com/eenie9/chest-runner-downloads/releases/download/v0.1.0/Chest-Runner-v0.1.0-Setup.exe) · [Portable ZIP](https://github.com/eenie9/chest-runner-downloads/releases/download/v0.1.0/Chest-Runner-v0.1.0-Windows.zip) · [Release notes](https://github.com/eenie9/chest-runner-downloads/releases/tag/v0.1.0)
+[Get the Windows installer](https://github.com/eenie9/chest-runner-downloads/releases/download/v0.1.0/Chest-Runner-v0.1.0-Setup-r2.exe) · [Portable ZIP](https://github.com/eenie9/chest-runner-downloads/releases/download/v0.1.0/Chest-Runner-v0.1.0-Windows.zip) · [Release notes](https://github.com/eenie9/chest-runner-downloads/releases/tag/v0.1.0)
 
 Version 0.1.0 is a **free, unlimited testing preview**. Paid activation is not enabled.
 
